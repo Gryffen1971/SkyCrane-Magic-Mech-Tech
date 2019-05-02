@@ -1,2 +1,3 @@
 # SkyCrane-Magic-Mech-Tech
-My ModPack for Minecraft
+# SkyCrane-Magic-Mech-Tech Lite Version
+# My ModPack(s) for Minecraft
