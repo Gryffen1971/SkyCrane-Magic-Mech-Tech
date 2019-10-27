@@ -14,5 +14,6 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Reporting of problems with mods (ie.. Deletion, Error Messages) please create an Issue with Crash Log(s) (These are Required!)
+Reporting of problems with mods (ie.. Deletion, Error Messages)  
+please create an Issue with Crash Log(s) (These are Required!)  
 No Crash-Logs will cause a delay in narrowing down the problem.
